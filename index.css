@@ -1,0 +1,22 @@
+.navbar {
+    background-color: silver;
+}
+
+.navbar-brand {
+    color: black;
+    font-size: 45px;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+
+.nav-link {
+    color: black;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+
+h1 {
+    text-align: center;
+}
+
+.fixed-bottom {
+    background-color: black;
+}
